@@ -11,7 +11,44 @@
        </div>
     </div>
     <div id="bottom">
-      <div id="bottom-left">qq chose</div>
+      <div id="bottom-left">
+        <div class="information">
+          <p>
+           <br> Niché entre la place du Capitole et la Basilique Saint-Sernin, Art<br>
+            Tea Shop est un salon de thé chaleureux et haut en couleurs,<br>
+            entièrement décoré par des artisans locaux. Ce lieu convivial est<br>
+            parfait pour faire de nouvelles rencontres, échanger, ou passer un<br>
+            agréable moment en famille, entre amis ou collègues. À l’heure du<br>
+            déjeuner, on y découvre une carte gourmande et de saison inspirée du<br>
+            petit-déjeuner : brioche salée au bacon et cheddar et saumon fumé par exemple ...<br>
+            Nous vous invitons à regardez leur cartes directement sur leur site web.<br>
+            <br />
+            Art tea shop est ouvert de 11h00 à 19h00.
+          </p>
+          <h4>
+            Si ce lieu vous interesse voici son adresse : 
+            <br />
+           37 rue des lois à Toulouse
+          </h4>
+          <h4>
+            de plus si vous voulez réservez veuillez tapez le
+            <span>
+              <strong>0673859750</strong>
+            </span>
+            ou veuillez taper cette adresse mail :
+            <span>
+              <strong>hello@art-teashop.com</strong>
+            </span>
+          </h4>
+          <br />
+          <p>
+            pour plus d'info sur la carte veuillez cliquer
+            <a href="https://www.art-teashop.com/">
+              <button>ici</button>
+            </a>
+          </p>
+        </div>
+      </div>
       <div id="bottom-right">
         salon 1 <br>
         salon 2
